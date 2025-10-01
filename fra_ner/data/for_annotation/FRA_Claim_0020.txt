@@ -1,0 +1,33 @@
+FORM B - APPLICATION FOR RECOGNITION OF INDIVIDUAL FOREST RIGHTS
+Claim ID:
+Name of Claimant:
+FRA-TELANGANA-0020
+Laxmi Das
+Name of Father/Spouse:
+Bhima Pradhan
+Age:
+75
+Gender:
+Female
+Tribe / Community:
+Santal
+Village:
+Medchal
+Gram Panchayat:
+Medchal GP
+District:
+Warangal
+State:
+Type of Claim:
+Telangana
+Agricultural Land
+Area (hectares):
+GPS Coordinates (Lat, Lon):
+Claim Status:
+Date of Submission:
+Signature of Applicant
+14.33
+17.155191, 78.371336
+Rejected
+2024-05-02
+OFFICIAL

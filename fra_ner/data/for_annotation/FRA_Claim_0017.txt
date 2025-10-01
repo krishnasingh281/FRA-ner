@@ -1,0 +1,29 @@
+FORM B- APPLICATION FOR RECOGNITION OF Individual
+Forest Right
+Claim ID:
+FRA-TRIPURA-0019
+Name Of Claimant: krishna Singh
+Name OF Father/spouse: No one
+Age:
+21
+Gender:
+Male
+Tribe/community:
+Rajput
+Medchal
+village:
+Gram Panchayat:
+Medchal GP
+District:
+State:
+Adilabad
+Telangana
+Type of claim:
+Individual Forest land
+Arealhectares):
+16.17
+Gps Coordinates (lat, lon): 17.353785, 77.779914
+claim status:
+Date of Submission:
+Approved
+2023-03-21

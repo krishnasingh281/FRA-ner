@@ -1,0 +1,33 @@
+FORM B - APPLICATION FOR RECOGNITION OF INDIVIDUAL FOREST RIGHTS
+Claim ID:
+Name of Claimant:
+Name of Father/Spouse:
+Age:
+FRA-TRIPURA-0015
+Radha Pradhan
+Radha Devi
+59
+Gender:
+Female
+Tribe / Community:
+Bhil
+Village:
+Santirbazar
+Gram Panchayat:
+Santirbazar GP
+District:
+State:
+Dhalai
+Tripura
+Type of Claim:
+Area (hectares):
+GPS Coordinates (Lat, Lon):
+Claim Status:
+Date of Submission:
+Signature of Applicant
+Agricultural Land
+14.55
+23.417055, 91.928219
+Rejected
+2025-11-02
+OFFICIAL

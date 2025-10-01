@@ -1,0 +1,33 @@
+FORM B - APPLICATION FOR RECOGNITION OF INDIVIDUAL FOREST RIGHTS
+Claim ID:
+Name of Claimant:
+FRA-ODISHA-0025
+Gopal Naik
+Name of Father/Spouse:
+Bhima Nayak
+Age:
+73
+Gender:
+Male
+Tribe / Community:
+Munda
+Village:
+Sarangarh
+Gram Panchayat:
+Sarangarh GP
+District:
+State:
+Koraput
+Odisha
+Type of Claim:
+Area (hectares):
+GPS Coordinates (Lat, Lon):
+Claim Status:
+Date of Submission:
+Signature of Applicant
+Pond/Waterbody
+16.62
+21.012648, 85.376964
+Approved
+2023-02-22
+OFFICIAL
