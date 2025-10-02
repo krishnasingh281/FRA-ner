@@ -222,6 +222,3 @@ __pycache__/
 *.json
 temp_uploads/
 
-# Large data and model files
-/models/
-/data/
