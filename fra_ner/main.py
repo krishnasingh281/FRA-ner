@@ -14,11 +14,9 @@ from src.ner.infer_ner import NERPredictor
 app = FastAPI(title="FRA Data Extraction API")
 
 # Load your trained NER model into memory when the server starts
-try:
-    ner_predictor = NERPredictor()
-except FileNotFoundError:
-    print("WARNING: Trained NER model not found. API will run without AI fallback.")
-    ner_predictor = None
+# ner_predictor = NERPredictor() # Temporarily disabled for memory test
+ner_predictor = None
+print("INFO: NER model loading is temporarily disabled for this deployment.")
 
 @app.post("/extract/")
 async def create_upload_file(file: UploadFile = File(...)):
